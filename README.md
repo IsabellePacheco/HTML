@@ -3,3 +3,5 @@
 - Primeiro site feito na web
 - ex_01_estruturaBasica
 - ex_02_paragrafo e titulos 
+- ex_03_links
+- ex_04_imagens  
