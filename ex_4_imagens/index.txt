@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Exemplo e links</title>
+		<title>Imagem</title>
 	</head>
 	<body>
-		<p>Inserir imagem usando link</p>
-		<img src="https://i.pinimg.com/236x/2c/80/fa/2c80fa1128ae7769a9362596346ba9d8.jpg"></a>
+		<p>Inserir imagem local </p>
+		<img src="imagem.avif" width="250" alt="flor" >
+		<p>Inserir imagem via link </p>
+		<img src="https://i.pinimg.com/236x/2c/80/fa/2c80fa1128ae7769a9362596346ba9d8.jpg"alt>
+
 	</body>
 </html>
