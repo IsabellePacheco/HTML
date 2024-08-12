@@ -4,7 +4,11 @@
 - ex_01_estruturaBasica
 - ex_02_paragrafo e titulos 
 - ex_03_links
-- ex_04_imagens  
+- ex_04_imagens
+- ex-05_semantica
+
+# letras de música
+- Escolhas- Zé Neto e Cristiano
 
 # Trabalho filme 
 - Elementos 
