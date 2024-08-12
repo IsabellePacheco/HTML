@@ -23,12 +23,12 @@
 	<img src="img/avatar.png" alt="foto do cantor"> 
 
 	<b>Escolhas</b>
-	<p style="color:green; font-size:25px; line-height;10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+	<p style="color:green; font-size:25px; line-height;10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	Zé Neto e Cristiano </p>
 	</p>
 
 
-	<p style="font-size:20px; margin-left:50px;" >
+	<p style="font-size:20px; margin-left:230px;" >
 	Se o céu tá nublado <br>
  	Se o dia tá claro <br>
 	Se o clima tá quente <br>
@@ -38,73 +38,73 @@
 	
 	<img src="img/video.png" alt="ilustração do videoclipe" align="right">
 
-	<p style="font-size:20px; margin-left:150px;" >
+	<p style="font-size:20px; margin-left:230px;">
 	Do portão pra fora <br>
 	Pessoas e decepções que vão acontecer <br>
 	São coisas que a gente não pode prever <br>
 	</p>
 	
-	<p style="font-size:20px; margin-left:150px;" >
+	<p style="font-size:20px; margin-left:230px;">
 	De tombo em tombo <br>
 	Porrada em porrada <br>
 	Depois de umas bocas erradas <br>
 	Tem beijo que é divisão de mágoas <br>
 	</p>
 	 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Tipo esse seu <br>
  	Que a gente não escolhe <br>
 	Simplesmente acha  <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Eu escolhi te amar <br>
 	E pra sempre ter você <br>
 	Escolho nunca te fazer chorar <br>
 	E nunca te perder <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Eu escolhi perdoar <br>
 	Com você, evoluir <br>
 	E o que passou, deixar passar <br>
 	Eu escolho ser feliz <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Se hoje eu tô de terno preto <br>
  	E você, de noiva <br>
 	É por causa das nossas escolhas <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	De tombo em tombo <br>
  	Porrada em porrada <br>
 	Depois de umas bocas erradas <br>
 	Tem beijo que é divisão de mágoas <br>
 	</p>
 
- 	<p style="font-size:20px; margin-left:150px;">
+ 	<p style="font-size:20px; margin-left:230px;">
 	Tipo esse seu <br>
 	Que a gente não escolhe <br>
 	Simplesmente acha <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Eu escolhi te amar <br>
 	E pra sempre ter você <br>
 	Escolho nunca te fazer chorar <br>
 	E nunca te perder <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Eu escolho perdoar <br>
 	Com você, evoluir <br>
 	E o que passou, deixar passar <br>
 	Eu escolho ser feliz <br>
 	</p>
 
-	<p style="font-size:20px; margin-left:150px;">
+	<p style="font-size:20px; margin-left:230px;">
 	Se hoje eu tô de terno preto <br>
 	E você, de noiva <br>
 	É por causa das nossas escolhas <br>
