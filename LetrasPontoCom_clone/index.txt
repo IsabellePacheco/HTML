@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang ="pt-br">
+<head>
+	<!-- Renderiza caracteres especiais corretamente -->
+	<meta charset="UTF-8">
+
+	<!-- permite reconhecer quando aberto em tela menor -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ESCOLHAS - Zé Neto e Cristiano - LETRAS.COM</title>
+	<!-- Exemplo de uso de SEO( Search Engine Optimization técnicas para melhorar o posicionamento nos resultados de busca no Google -->
+</head>
+
+<body>
+	<img src="img/Topo.png" alt="topo da página">
+	
+	<p style="color:gray; font-size:12px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp pagina inicial > sertanejo > Zé Neto e Cristiano > escolhas </p>
+
+	<center>
+	<img src="img/anuncio.png" alt="Banner da propaganda">
+	</center>
+
+	<p style="color:red; font-size:30px; line-height:-10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+	<img src="img/avatar.png" alt="foto do cantor"> 
+
+	<b>Escolhas</b>
+	<p style="color:green; font-size:25px; line-height;10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+	Zé Neto e Cristiano </p>
+	</p>
+
+
+	<p style="font-size:20px; margin-left:50px;" >
+	Se o céu tá nublado <br>
+ 	Se o dia tá claro <br>
+	Se o clima tá quente <br>
+	Ou se vai chover <br>
+	São coisas que a gente não pode prever <br>
+	</p>
+	
+	<img src="img/video.png" alt="ilustração do videoclipe" align="right">
+
+	<p style="font-size:20px; margin-left:150px;" >
+	Do portão pra fora <br>
+	Pessoas e decepções que vão acontecer <br>
+	São coisas que a gente não pode prever <br>
+	</p>
+	
+	<p style="font-size:20px; margin-left:150px;" >
+	De tombo em tombo <br>
+	Porrada em porrada <br>
+	Depois de umas bocas erradas <br>
+	Tem beijo que é divisão de mágoas <br>
+	</p>
+	 
+	<p style="font-size:20px; margin-left:150px;">
+	Tipo esse seu <br>
+ 	Que a gente não escolhe <br>
+	Simplesmente acha  <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Eu escolhi te amar <br>
+	E pra sempre ter você <br>
+	Escolho nunca te fazer chorar <br>
+	E nunca te perder <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Eu escolhi perdoar <br>
+	Com você, evoluir <br>
+	E o que passou, deixar passar <br>
+	Eu escolho ser feliz <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Se hoje eu tô de terno preto <br>
+ 	E você, de noiva <br>
+	É por causa das nossas escolhas <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	De tombo em tombo <br>
+ 	Porrada em porrada <br>
+	Depois de umas bocas erradas <br>
+	Tem beijo que é divisão de mágoas <br>
+	</p>
+
+ 	<p style="font-size:20px; margin-left:150px;">
+	Tipo esse seu <br>
+	Que a gente não escolhe <br>
+	Simplesmente acha <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Eu escolhi te amar <br>
+	E pra sempre ter você <br>
+	Escolho nunca te fazer chorar <br>
+	E nunca te perder <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Eu escolho perdoar <br>
+	Com você, evoluir <br>
+	E o que passou, deixar passar <br>
+	Eu escolho ser feliz <br>
+	</p>
+
+	<p style="font-size:20px; margin-left:150px;">
+	Se hoje eu tô de terno preto <br>
+	E você, de noiva <br>
+	É por causa das nossas escolhas <br>
+	Das nossas escolhas <br>
+	</p>
+</body>
+</html>
