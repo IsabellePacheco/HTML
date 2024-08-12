@@ -7,7 +7,7 @@
 - ex_04_imagens
 - ex-05_semantica
 
-# letras de música
+# Letras de música
 - Escolhas- Zé Neto e Cristiano
 
 # Trabalho filme 
