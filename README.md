@@ -8,6 +8,7 @@
 - ex-05_semantica
 - ex_06_tabela
 - ex_07_lista ordenada
+- ex_08_lista não ordenada
 
 # Letras de música
 - Escolhas- Zé Neto e Cristiano
