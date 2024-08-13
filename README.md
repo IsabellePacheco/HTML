@@ -14,4 +14,10 @@
 - Escolhas- Zé Neto e Cristiano
 
 # Trabalho filme 
-- Elementos 
+- Elementos
+
+# Desafio receita
+- strognoff
+
+# Desafio do link 
+
