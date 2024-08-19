@@ -12,6 +12,7 @@
 - ex_09_formulario
 - ex_10_formularioComSeletores
 - ex_11_videos e audios
+- ex_12_outras tags
 
 # Letras de música
 - Escolhas- Zé Neto e Cristiano
