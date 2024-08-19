@@ -19,7 +19,7 @@
 - Elementos
 
 # Desafio receita
-- strognoff
+- Strogonoff
 
 # Desafio do link 
 
