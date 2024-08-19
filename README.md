@@ -10,7 +10,8 @@
 - ex_07_lista ordenada
 - ex_08_lista não ordenada
 - ex_09_formulario
-
+- ex_10_formularioComSeletores
+- ex_11_videos e audios
 
 # Letras de música
 - Escolhas- Zé Neto e Cristiano
